@@ -1,3 +1,5 @@
 Exercici de prova per entrar a la IT Academy!
 
 Aquesta és la segona modificació, la primera des de la branca màster.
+
+Modificació feta des de la branca
